@@ -1,5 +1,5 @@
 name: kozen_printer
-description: "A new Flutter plugin project."
+description: "A Flutter plugin for integrating with Kozen print devices."
 version: 0.0.1
 homepage: "https://tjgs.my.id"
 
