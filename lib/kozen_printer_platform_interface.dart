@@ -1,4 +1,3 @@
-import 'package:kozen_printer/models/print_line.dart';
 import 'package:plugin_platform_interface/plugin_platform_interface.dart';
 
 import 'kozen_printer_method_channel.dart';

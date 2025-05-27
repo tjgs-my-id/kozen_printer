@@ -1,6 +1,5 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/services.dart';
-import 'package:kozen_printer/models/print_line.dart';
 
 import 'kozen_printer_platform_interface.dart';
 
