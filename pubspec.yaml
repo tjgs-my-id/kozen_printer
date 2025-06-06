@@ -1,7 +1,7 @@
 name: kozen_printer
 description: "A Flutter plugin for integrating with Kozen print devices."
 version: 0.0.1
-homepage: "https://tjgs.my.id"
+homepage: "https://github.com/tjgs-my-id/kozen_printer"
 
 environment:
   sdk: ^3.7.2
